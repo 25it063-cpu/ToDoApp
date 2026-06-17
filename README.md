@@ -12,18 +12,29 @@ A modern, feature-rich ToDo application built using Jetpack Compose that helps u
 
 ## Features
 ➕ Add new tasks with title, category, color, and deadline
+
 📅 Date & Time picker for setting task deadlines
+
 🏷️ Category-based task organization (Work, Personal, Dev, etc.)
+
 🎨 Color-coded tasks for better visual prioritization
+
 📊 Dashboard showing task statistics (Completed, Due, Total tasks)
+
 📥 Bottom sheet UI for adding tasks
+
 🧠 Swipe gestures:
+
 ➜ Swipe right → Mark as completed
+
 ⬅ Swipe left → Delete task
+
 📌 Expandable task cards with subtasks & progress indicator
+
 🔔 Deadline reminder section for today's tasks
+
 🌈 Modern Material 3 UI with animations
-📱 Screenshots
+
 ---
 ## Tech Stack
 Kotlin
