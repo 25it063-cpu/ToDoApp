@@ -71,8 +71,8 @@ All UI is built using Composable functions with reactive state handling.
 ## Screenshots
 
 <p align="center">
-  <img src="" width="250"/>
-  <img src="" width="250"/>
+  <img src="td1.png" width="250"/>
+  <img src="td2.png" width="250"/>
   
 </p>
 
