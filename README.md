@@ -6,7 +6,7 @@ A modern, feature-rich ToDo application built using Jetpack Compose that helps u
 ## 🎓 Internship Details
 
 - Intern ID: CITS1726
-- Project: Recipe Finder Android App
+- Project: To-Do List Android App
 
 ---
 
